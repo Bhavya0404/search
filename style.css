@@ -1,0 +1,38 @@
+body {
+    text-align: center;
+    margin: 20px;
+    padding: 180px;
+}
+
+
+h1 {
+    font-size: 70px;
+    font-family: 'PT Sans', sans-serif;
+    margin: 15px;
+    
+}
+
+.search {
+    width: 500px;
+    padding: 8px;
+    margin: 10px;
+    border-radius: 20px;
+    border: 1px solid rgba(128, 128, 128, 0.24);
+}
+
+.search:hover {
+    border: 1px solid rgba(128, 128, 128, 0.692);
+}
+
+
+.button {
+    padding: 8px;
+    margin: 10px;
+    border: none;
+    border-radius: 3px;
+}
+
+.button:hover{
+    border: 1px solid rgba(128, 128, 128, 0.383);
+
+}
